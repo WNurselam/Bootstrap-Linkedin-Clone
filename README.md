@@ -1,3 +1,3 @@
 # DESİGN LIKEDIN CLONE 
 
-![alt](./linkedin.png)
+![alt](./linkedinP.png)
