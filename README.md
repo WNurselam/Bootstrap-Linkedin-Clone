@@ -1,3 +1,3 @@
-# DESİGN LIKEDIN CLONE 
+# DESİGN LINKEDIN CLONE 
 
 ![alt ](./linkedinP.png)
